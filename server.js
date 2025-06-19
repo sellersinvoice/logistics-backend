@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import reordersRouter from './routes/reorders.js';
+import reordersRouter from './reorders.js';
 
 dotenv.config();
 
